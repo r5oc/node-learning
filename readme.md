@@ -33,6 +33,10 @@ Para iniciar o projeto em modo de desenvolvimento:
 yarn dev
 ```
 
+#### Teste os endpoints
+
+Além disso, um arquivo [Node.postman_collection.json](Node.postman_collection.json) foi adicionado ao projeto para facilitar o teste dos endpoints disponíveis. Você pode importá-lo no Postman para explorar e validar as funcionalidades da API. O arquivo pode ser encontrado em [Node.postman_collection.json](Node.postman_collection.json).
+
 ## Contribuição
 
 Contribuições são bem-vindas! Siga os passos abaixo:
