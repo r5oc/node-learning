@@ -1,7 +1,7 @@
 let customers = [
-    { id: 1, name: "dev oliva", site: "http://oliva.com" },
-    { id: 2, name: "google", site: "http://google.com" },
-    { id: 3, name: "microsoft", site: "http://microsoft.com" }
+    { id: 1, name: "ex1", site: "https://example.com/" },
+    { id: 2, name: "ex2", site: "https://example.com/" },
+    { id: 3, name: "ex3", site: "https://example.com/" }
 ];
 
 class CustomersController {
@@ -59,4 +59,4 @@ class CustomersController {
     }
 }
 
-module.exports = new CustomersController();
+export default new CustomersController();
